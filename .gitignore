@@ -214,9 +214,9 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-许可证
-README.md
-requirements.txt
-
 # Streamlit
 .streamlit/secrets.toml
+
+LICENSE
+README.md
+requirements.txt
